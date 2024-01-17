@@ -1,0 +1,22 @@
+button{
+    width: 300px;
+    height: 60px;
+    border: none;
+    border-radius: 6px;
+    padding: 3px;
+    font-size: 1.1rem;
+    font-family: Lato, sans-serif;
+    font-weight:bold;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+
+.boton-contar{
+    background-color: yellow;
+    color: black
+}
+.boton-reiniciar{
+    background-color: green;
+    color: navy
+}
